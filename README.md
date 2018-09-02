@@ -1,3 +1,3 @@
 # faceRecognition
-Basic facial recognition with OpenCV and a HaarCascade.
+Basic Facial Recognition with OpenCV and a HaarCascade.
 -By Harshit Ahluwalia
